@@ -14,6 +14,8 @@ sudo cp organize⚡ /usr/bin
 ```sh
 sudo chmod +x /usr/bin/organize⚡
 ```
+<br>
+
 #### File Types and Corresponding Emojis
 
 
