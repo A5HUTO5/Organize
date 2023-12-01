@@ -1,14 +1,21 @@
-# Linux File Organizer 😎
-
-
+# Linux File Organizer 😎 
+<br>
 
 ## Organize files and Delete Empty folders
-
 <br>
 
+```sh
+git clone https://github.com/Dev4418/Organize.git
+cd Organize
+```
+```sh
+sudo cp organize⚡ /usr/bin
+```
+```sh
+chmod +x organize⚡
+```
 #### File Types and Corresponding Emojis
 
-<br>
 
 - Image Files (`.png`, `.jpg`, `.jpeg`, `.tif`, `.tiff`, `.bpm`, `.gif`, `.eps`, `.raw`): 🖼️
   
