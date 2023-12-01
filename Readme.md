@@ -12,7 +12,7 @@ cd Organize
 sudo cp organize⚡ /usr/bin
 ```
 ```sh
-chmod +x organize⚡
+sudo chmod +x /usr/bin/organize⚡
 ```
 #### File Types and Corresponding Emojis
 
