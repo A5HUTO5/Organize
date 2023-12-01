@@ -1,0 +1,39 @@
+#!/bin/bash
+
+#Image Files
+mkdir 🖼️ 
+mv *.png *.jpg *.jpeg *.tif *.tiff *.bpm *.gif *.eps *.raw  🖼️ 
+
+# Audio Files 
+mkdir 🎵
+mv *.mp3 *.m4a *.flac *.aac *.ogg *.wav 🎵
+
+# Video Files 
+mkdir 🎥
+mv *.mp4 *.mov *.avi *.mpg *.mpeg *.webm *.mpv *.mp2 *.wmv *.mkv  🎥
+
+# PDFs 
+mkdir 📄
+mv *.pdf  *.txt *.docx 📄
+
+# Scripts
+mkdir 👨‍💻
+mv *.py *.rb *.sh  👨‍💻
+
+#Compressed Files
+mkdir 🗄️
+mv *.rar *.zip *.tar *.xz *.gz 🗄️
+
+#Executable Files
+mkdir ⚙️
+mv *.sh *.bin *.exe ⚙️
+
+#App installer 
+mkdir 📦
+mv *.deb *.rpm *.AppImage 📦
+
+#Delete empty folders 
+find ./ -empty -type d -delete
+
+echo "Files organized! 😎"
+
