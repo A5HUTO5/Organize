@@ -5,7 +5,7 @@
 <br>
 
 ```sh
-git clone https://github.com/A5UTO5/Organize.git
+git clone https://github.com/havocneo/Organize.git
 cd Organize
 ```
 ```sh
