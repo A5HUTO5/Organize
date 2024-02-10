@@ -1,4 +1,4 @@
-# Linux File Organizer 😎 
+# bash script to oraganize files
 <br>
 
 ## Organize files and Delete Empty folders
